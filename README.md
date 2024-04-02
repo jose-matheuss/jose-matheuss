@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do jose-matheuss 
+## Bem-vindo(a) ao perfil do jose-matheuss :)
 
  <div>
    <a href="https://github.com/jose-matheuss">
